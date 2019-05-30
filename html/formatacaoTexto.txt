@@ -1,0 +1,12 @@
+Documento explicando um pouco melhor o codigo formatacaoTexto.html
+
+Como ja foi demonstrado no paragrafo.html, irei apenas complementar o que ja foi demonstrado.
+
+A tag <strong> transforma o texto em negrito, lembrando que a tag deve ser fechada com </strong>
+
+A tag <em> transforma o texto em italico, lembrando que a tag deve ser fechada com </em> 
+
+A tag <u> adiciona no texto uma linha sublinhada, lembrando que a tag deve ser fechada com </u>
+
+A tag <strike> adiciona uma linha no meio do texto ou palavra, demonstando a ideia de que a palavra esta
+errada. Esta tag tambem deve ser fechada com </strike>
