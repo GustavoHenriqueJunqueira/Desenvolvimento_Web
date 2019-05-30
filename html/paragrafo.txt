@@ -1,0 +1,12 @@
+Documento explicando um pouco melhor o codigo cabecalho.html
+
+Como ja foi demonstrado no cabecalho.html, irei apenas complementar o que ja foi demonstrado.
+
+dentro da tag <body> para identificarmos um paragrafo de indormacoes no codigo e para 
+ficar mais bem apresentado na tela do navegador utilizamos a tag <p>
+
+Esta tag ja faz um espacamento diferente para o inicio do texto. 
+
+Utilizamos tambem neste codigo a tag <hr> esta tag pula uma linha e adiciona uma linha na tela quando
+for demonstrado no navegador. 
+
