@@ -1,0 +1,16 @@
+Documento explicando um pouco melhor o codigo cabecalho.html
+
+Como ja foi demonstrado no primeiro.html, irei apenas complementar o que ja foi demonstrado.
+
+Dentro da Tag <body> para identificarmos os cabecalhos que podemos utilizar, existe uma 
+serie de tag que podemos utilizando sendo elas. 
+
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+indo do maior tamanho para o menor, os navegadores nao vao interpretar um suporto <h7> pois nao existe. 
+estes sao os que serao interpretados.
