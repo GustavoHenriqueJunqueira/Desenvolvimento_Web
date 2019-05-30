@@ -1,0 +1,28 @@
+Documento explicando um pouco melhor o codigo formularios.html
+
+Como ja foi demonstrado no cabecalho.html, irei apenas complementar o que ja foi demonstrado.
+
+
+Para a criacao de um formulario, dentro da tag <body> devemos criar uma tag <form> esta tag deve ser fechada posteriormente
+
+Dentro da tag <form> utilizei a tag <input type="text" nome=login>
+Desta forma o navegador entenque que deve criar uma caixa de texto e que o nome da caixa vai ser login. 
+foi criado tambem um <input type="password" name="senha"> informando que este e um campo de senha, quando for demonstrado no
+navegador sobre este campo o usuario ira digitar a senha mas nao sera exibido o que ele digitou. 
+
+<input type="submit" value="Enviar"> neste momento foi criado um botao com a funcao de submeter o formulario anterior
+e o value sendo o nome que ira aparecer na tela para enviar, 
+
+tendo outros exemplos tambem nesta pagina. 
+
+<input type="radio"> e para realizar a escolha no caso foi adicionado name="sexo" para que nao seja permitido escolher os dois. 
+
+mudando o type para checkbok como nos interesses, e realizado a opcao da pessoa poder marcar mais de uma opcao. 
+
+<select>
+<option></option>
+</select>
+
+cria uma lista para a escolha, repita o option quantas vezes for necessarias para montar a lista. 
+
+<textarea></textarea> cria um box para escrita, geralmente utilizada para observacoes.  
