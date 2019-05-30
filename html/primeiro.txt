@@ -1,0 +1,14 @@
+Documento esplicando um pouco melhor o codigo primeiro.html
+
+<!Doctype HTML> parte responsavel por demonstrar ao navegador que a pagina se trata de uma pagina
+html, desta forma ela sera interpretada com a ultima versao do html.
+
+<html> neste momento comecamos a descrever as partes da pagina em si, todo o codigo deve estar dentro 
+das tags <html></html>
+
+<head> Cabeca e o local que adicionamos a tag title e as tags meta.
+A tag <title> e o nome que sera apresentado na aba do navegador que a pagina foi aberta
+A tag <meta charset="ytf-8"> e para que seja interpretados acentos e cacarteres especiais. 
+
+<body> e onde todo o conteudo de fato da pagina vai estar, dentro dela sera criado as tags de 
+paragrafo, tabela, listas e varias outras tags. 
