@@ -1,0 +1,9 @@
+Documento explicando um pouco melhor o codigo caracteresEspeciais.html
+
+Como ja foi demonstrado no formularios, irei apenas complementar o que ja foi demonstrado.
+
+Neste momento e demonstrado apenas algumas formas de demonstrar os caracteres especiais que o 
+navegador interpreta, para realmente saber como demonstrar algum caso alguma vez tenha necessidade,
+o melhor sera pesquisar no google o codigo correto do caracter em questao.
+
+
