@@ -1,4 +1,4 @@
-Documento esplicando um pouco melhor o codigo primeiro.html
+Documento explicando um pouco melhor o codigo primeiro.html
 
 <!Doctype HTML> parte responsavel por demonstrar ao navegador que a pagina se trata de uma pagina
 html, desta forma ela sera interpretada com a ultima versao do html.
