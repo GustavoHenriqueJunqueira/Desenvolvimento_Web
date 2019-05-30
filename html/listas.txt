@@ -1,0 +1,12 @@
+Documento explicando um pouco melhor o codigo listas.html
+
+Como ja foi demonstrado no formatacaoTexto.html, irei apenas complementar o que ja foi demonstrado.
+
+Dentro da tag <body> podemos criar dois tipos para listar as informacoes
+podemos utilizar a tag <ul> e <ol> sendo que as duas tag devem ser fechadas. 
+
+ao abrir a tag <ul> depois temos que abrir a tag <li> que seram os itens desta lista.
+
+tanto na tag ol ou ul deve ser utilizado o <li> ela sao os itens dentro de cada lista.
+
+sendo que a tag <li> tambem deve ser fechada com </li>
