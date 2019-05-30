@@ -1,0 +1,23 @@
+Documento explicando um pouco melhor o codigo tabelas.html
+
+Como ja foi demonstrado no cabecalho.html, irei apenas complementar o que ja foi demonstrado.
+
+Para realizar a criacao da tabela, devemos abrir a tag <table> esta tag deve ser fechada. 
+ainda na linha desta tag, podemos como foi feito adicionar uma borda na tabela.
+
+ficando <table border="1">
+
+Apos abrir a tag <table> vamos abir a tag <tr> e em seguida a <td> sendo 
+
+<tr> As linhas da tabela 
+<td> As colunas da tabela
+
+Ou dependendo se for o cabecalho da tabela podemos utilizar a <th> ao inves da <td> na primeira linha
+da tabela. 
+
+pouco a baixo no codigo foi utilizado mais dois atributos de definicao sendo eles 
+
+colspan que siguinifica que esta coluna vai ocupar o espaco de duas colunas para alinhar.
+
+rowspan que siguinifica que esta coluna vai ocupar o espaco de duas linhas para alinhar. 
+
