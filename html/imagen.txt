@@ -1,0 +1,16 @@
+Documento explicando um pouco melhor o codigo listas.html
+
+Como ja foi demonstrado no listas.html, irei apenas complementar o que ja foi demonstrado.
+
+Dentro da tag <body> ao abrir a tag <img src=""> conseguimos adicionar uma imagem na 
+pagina que sera exibida no navegador, o src siguinifica procura e dentro das "" sera 
+colocado o caminho da imagem, podendo ser localmente quanto de um site. 
+
+O ponto e que se por acaso o site tirar a imagem do ar a sua tambem sai.
+por boas traticas de desenvolvimento o correto e vc ter a imagem no seu computador
+e informar o caminho. seria meio que "C:/Users/seunome/documents..."
+
+Junto da tag <img src> podemos adicionar mais dois atributos sendo ele altura e largura. 
+
+que seria o width="800" e height="600". estes dois comandos devem estar dentro da tag 
+<img> e a tag nao tem que ser fechada com outra </img>
