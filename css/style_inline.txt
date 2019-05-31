@@ -7,6 +7,3 @@ adicionado o <p style="color: red; border:1px solid yellogreen">
 o que siguinifica que este paragrafo o texto vai ficar com cor vermelha e em volta do texto uma borda de 1px
 na cor yellogreen. 
 Observe que no segundo paragrafo tambem tem sua propria configuracao.
-
-Mas para evitar repedicoes caso a configuracao dos dois paragrafor fosem iguais, dentro da tag <head>
-foi criado a tag <style type="text/css"> e informado a configuracao da tag <p> tanto a da tag <h1>
