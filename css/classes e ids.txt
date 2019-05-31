@@ -1,0 +1,14 @@
+Continuando a melhor forma de implementar os estilos.
+
+Utilizando agora a parte de classes e id para facilitar mais a organizacao de quando for aplicado o esti-lo
+para as tags. 
+
+A representacao da classe e utilizando um . e o nome que foi dado para a classe, neste exemplo foi
+.paragrafo
+
+ja para utilizar id e utilizado # e o nome do id neste caso foi #verde
+
+dentro da tag <body> tambem deve ser informado nas tags a qual estilo vai perdencer.
+
+o primeiro paragrafo faz parte da classe ficando ... <p class="paragrafo"> 
+ja o segundo paragrafo faz parde de um id, ficando <p id="verde">
