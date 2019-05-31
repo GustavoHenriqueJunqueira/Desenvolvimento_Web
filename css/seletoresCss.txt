@@ -1,0 +1,14 @@
+Neste segundo passo sobre os seletores o que ja comeca a facilitar o trabalho na hora de configurar
+a aparencia de mais de um paragrafo no caso e utilizando um seletor. 
+
+Ao inves de ter que ir paragrafo por paragrafo configurando a cor, borta, estilo de letra. 
+
+dentro da tag <head> podemos criar uma tag <style type="text/css"> e adicionar o nome da tag que se
+refere e que vai sobrer a influencia do css. 
+
+neste caso foi 
+
+p{color: blue; border:1px solid red:}
+h1{color: blueviolet; font-size: 20px}
+
+que automaticamente o navegador vai entender e fazer as mudancas.  
