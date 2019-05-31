@@ -1,0 +1,4 @@
+Neste projeto final da parte de HTML, foi utilizado todas as tags apresentadas ate o comento no curso.
+o projeto final e para demonstrar o que pode ser feito utilizando apenas html, nao ha css nem js nestas 
+paginas. 
+
