@@ -1,0 +1,21 @@
+Relacionado as bodas. 
+
+E possivel adicionar bordas em qualquer elemento de texto, sendo uma linha, um paragrafo
+dentro de um <div>.
+
+Dentro da tag <style> que esta na tag <head> e possivel adicionar o nome da tag que
+vai receber a borda e configurar de duas formas diferentes, de uma forma mais simples
+apenas informanto o tamanho da borda e juntamente com a col e qual estilo ela vai ser
+
+Podendo resolver simplesmente com uma linha sendo border: 5px red solid
+
+Mas ha uma forma de configurar todos os lados de uma borda, como no exemplo a baixo:
+
+border-color: blueviolet green yellow blue;
+border-width: 5px 10px 8px 3px;
+border-style: solid dotted dashed solid;
+Todos os atributos das 3 linhas vao ser demonstrados no navegador seguindo o sentido horario
+
+o que quer dizer que o 5 px ficara no topo, 10px no lado direito 8px na parte inferior
+e 3px no lado esquerdo. 
+isto para todos os 3 atributos de cor, largura e estilo. 
