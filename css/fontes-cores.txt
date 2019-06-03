@@ -1,0 +1,23 @@
+Sobre Fontes e Cores
+
+Apesar de ser possivel simplesmente escrever o nome da cor em um atibuto color para definir a 
+cor de um texto, quando se quer adicionar uma cor mais expecifica devemos utilizar o codigo
+exadecimal o qual de fato mostra toda a palheta de cores que podem ser utilizadas. 
+
+Ao definir color: adicione # e o numero relacionado a cor. 
+
+
+Sobre as fontes para o texto. 
+
+Ao estecer dentro de uma classe font_family podemos definir qual fonte nosso texto vai possuir.
+No exemplo a baixo sera mais facil de enteder;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+Ao definir a primeira fonte que no caso foi Franklin Gothic Medium o navegador ira verificar se
+o servidor "computador" possui esta fonte instalada. caso ele nao possui ele automaticamente ira 
+pular a procura para a proxima fonte que no casso e 'Arial Narrow' novamente caso nao tenha esta
+fonte instalado novamente ele vai realizar mais uma pesquisa com a proxima fonte definida neste
+caso que e Arial. e por fim caso nenhuma fonte tenha neste computador ele ira provurar qualquer
+fonte que seja da familia "sans-serif" o ultimo elemento da linha da font-family e sempre 
+a familia a qual a fonte pertence. 
