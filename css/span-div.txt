@@ -1,0 +1,7 @@
+Em relacao a utiliza dos elementos de div ou span. 
+
+A ideia basica seria que a <div> seja utilizado em um elemento in line pois o <span> por outro lado 
+ao ser utilizado ele ja possui sua formatacao, ele coloca um espacamento entre as linhas ja a div nao
+realiza isto. 
+
+O <span> foi criado para ser um elemento de bloco, um paragrafo digamos. 
