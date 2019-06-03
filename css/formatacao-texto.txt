@@ -1,0 +1,23 @@
+Sobre formatacao de texto mais expecificamente tamanho. 
+
+ha tres principais meditas para realizar a formatacao de texto sendo;
+
+px, em e % 
+
+px a mais utilizada e nao sofre variacao, o tamanho que definil sera aquele e ponto. 
+ja em em pode ocorrer aldo um pouco diferente. 
+
+como mostrado no documento formatacao de texto.html
+
+temos uma div enconvendo todos os nossos 3 paragrafos e apenas o primeiro possui uma 
+classe que demonstra um tamanhjo diferente da div.
+
+digamos que na definicao da div esteja 30px e na classe texto ao invez de utilizarmos 
+15px utilizarmos 1em o navegador ira verificar qual elemento esta forma do elemento
+<p> que no caso e a div e fazer a proporcao sobre ele. 
+
+entao digamos que div seja 8px o p vai estar em 16px pois o em sempre ira dobrar o tamanho dos pixes
+
+no documento foi alterado a div para 8px e na classe foi adicionado 2em. 
+
+8x2 = 16px 
