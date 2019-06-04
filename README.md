@@ -1,6 +1,6 @@
 Documentos que foram desenvolvidos durante o curso de desenvolvimento Web realizado utilizando a plataforma Udemy. 
 Todo o conteúdo demonstrando neste repositório excluindo as imagens foi escrito por minha autoria, desta forma não será absolutamente tudo iguais ao que foi demonstrado no curso. 
-As imagens foram disponibilizadas durante o decorrer do curso para realizar os projetos finais de cada modulo. <br>
+As imagens foram disponibilizadas durante o decorrer do curso para realizar os projetos finais de cada modulo. <br><br>
 Conteúdo do curso;<br><br>
 •	HTML<br>
 •	CSS<br>
