@@ -1,0 +1,16 @@
+Sobre os tres tipos basicos de posicionamento. 
+
+Sao os tres;
+
+Relative
+
+Absolute
+
+Fixed
+
+
+Em Resomo
+o Absolute ira se configurar em relacao a div mais proxima,
+ja o fixed se apega ao view port, a tela do namegador. 
+Podendo utilizado para deixar um meno fixo ao topo da pagina
+ou como um rodape fixo no fim da pagina. 
