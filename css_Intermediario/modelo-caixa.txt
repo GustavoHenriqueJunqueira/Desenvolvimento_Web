@@ -1,0 +1,16 @@
+Em relcao aos modelos de caixa. 
+
+Quando utilizamos um conteudo dentro de uma div como foi neste caso, podemos
+configurar as margens do elemento tnto sendo as de dentro do elemento quanto 
+as de fora. 
+
+Com o atributo margin, podemos configurar os espacamentos de todos os 4 lados 
+do elemento, sempre seguindo o sentido horario como ja foi falado antes.
+
+ja o atibuto padding, com ele e possivel configurar o espacamento do texto com
+dentro da propria caixa, no modelo_caixa.html podemos ver no id cabecalho
+que possui uma borda vermelha de um pixel. 
+dentro desta caixa o conteudo principal informado no body vai estar com espacamento
+dentro da caixa que a borda demarcou. 
+
+
