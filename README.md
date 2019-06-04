@@ -1,22 +1,22 @@
 Documentos que foram desenvolvidos durante o curso de desenvolvimento Web realizado utilizando a plataforma Udemy. 
 Todo o conteúdo demonstrando neste repositório excluindo as imagens foi escrito por minha autoria, desta forma não será absolutamente tudo iguais ao que foi demonstrado no curso. 
 As imagens foram disponibilizadas durante o decorrer do curso para realizar os projetos finais de cada modulo. 
-Conteúdo do curso;
-•	HTML
-•	CSS
-•	CSS Intermediário
-•	HTML5
-•	CSS3
-•	Bootstrap-Criando sites responsivos
-•	JavaScript
-•	JQuery
-•	Iniciando com Servidor Apache, PHP e MySQL
-•	PHP
-•	Funções PHP
-•	Orientação a objeto PHP
-•	MySQL
-•	Ajax (Asynchronous Javascript and XML)
-•	PHP &MySQL – Projeto aplicado Twitter clone
+Conteúdo do curso;<br>
+•	HTML<br>
+•	CSS<br>
+•	CSS Intermediário<br>
+•	HTML5<br>
+•	CSS3<br>
+•	Bootstrap-Criando sites responsivos<br>
+•	JavaScript<br>
+•	JQuery<br>
+•	Iniciando com Servidor Apache, PHP e MySQL<br>
+•	PHP<br>
+•	Funções PHP<br>
+•	Orientação a objeto PHP<br>
+•	MySQL<br>
+•	Ajax (Asynchronous Javascript and XML)<br>
+•	PHP &MySQL – Projeto aplicado Twitter clone<br><br>
 Link do curso: https://www.udemy.com/curso-completo-do-desenvolvedor-web/
 
 Sobre os instrutores do curso:
