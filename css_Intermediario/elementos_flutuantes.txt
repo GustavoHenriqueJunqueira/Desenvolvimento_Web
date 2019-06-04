@@ -1,0 +1,16 @@
+Sobre elementos flutuantes. 
+
+Uma das maneira mais faceis de se fazer com o conteudo se tornar um elemento 
+flutuante e na criacao do paragrafo, criar uma <div> e atibuir ou um id ou uma 
+classe. 
+
+Na paginha html, foi adicionado um id e informando varios atibutos 
+para a configuracao da caixa que ira ser flutuante. o flincipal neste caso 
+e o float que define em qual lado vai estar a caixa que foi definida com o 
+texto. 
+
+Foi apresentado tambem a classe clear, que caso tenha um elemento que nao 
+esteja dento da configuracao do id acaba que este elemento vai ficar ao lado 
+dos elementos flutuantes, ao utilizar o clear ele vai seguir na linha de baixo. 
+
+Para melhor entendimento veja no navegador a pagina elementos_flutuantes.
