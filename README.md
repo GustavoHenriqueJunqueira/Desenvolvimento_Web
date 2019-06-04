@@ -19,8 +19,8 @@ Conteúdo do curso;<br><br>
 •	PHP &MySQL – Projeto aplicado Twitter clone<br><br>
 Link do curso: https://www.udemy.com/curso-completo-do-desenvolvedor-web/
 
-Sobre os instrutores do curso:<br>
-Jorge Sant Ana (Programador)<br>
+Sobre os instrutores do curso:<br><br>
+Jorge Sant Ana (Programador)<br><br>
 Olá, meu nome é Jorge Sant Ana, sou Tecnólogo em Informática para Gestão de Negócios pela Fatec e pós-graduado em Gestão de Projetos de Tecnologia da Informação pela USP. 
 Trabalho há mais de nove anos como programador Web e Mobile e sou um entusiasta apaixonado pela área. 
 Trabalhei em diversos projetos utilizando diversas tecnologias como HTML5, CSS3, Bootstrap, JavaScript, Jquery, TypeScript, Angular, NodeJS, Express, PHP, Slim Framework, React Native, Redux, MySQL, SQL Server MongoDB entre outras.
@@ -32,7 +32,7 @@ Atualmente tenho como objetivo colaborar no aprendizado de pessoas que buscam co
 - Curso Completo de Desenvolvimento Web - Crie 6 projetos
 Me sinto muito gratificado em fazer parte da jornada de aprendizado da vida dos meus alunos e por essa razão eu estou empenhando em dar o meu melhor para entregar aos meus alunos conteúdos cada vez melhores e mais relevantes.<br>
 
-Jamilton Damasceno (Analista de sistemas e Professor)<br>
+Jamilton Damasceno (Analista de sistemas e Professor)<br><br>
 Olá, meu nome é Jamilton Damasceno, sou Analista de Sistemas e Professor. 
 Comecei minha carreira dando aulas de informática, quando iniciei a faculdade comecei a trabalhar como Webdesigner e Programador, trabalhei no desenvolvimento de aplicativos e jogos para Android / IOS. 
 Atualmente desenvolvo para Android, IOS e WEB.
