@@ -1,0 +1,17 @@
+Sobre css externo.
+
+A forma mais indicada para se utilizar um css caso tenha mais de uma pagina para
+utilizar o estilo css e colocar um outra pagina, uma pagina de estilo. 
+
+Para nao ter que ficar refazendo codigos e deixando as paginas mais pessadas em seu carregamento.
+sem contar que caso seja necessario fazer alguma alteracao e muito mais pratico a modificacao em apenas
+uma pagina do que em varias paginas. 
+
+Apos criar um arquivo .css
+
+nas paginas html que vao ter a ligacao com css dentro da tag <head> devemos adicionar 
+
+<link rel="stylesheet" type="text/css" href="o nome do arquivo.css"/>
+
+desta forma como ja esta configurado o estilo no css automaticamente o estilo vai comecar a valer. 
+
