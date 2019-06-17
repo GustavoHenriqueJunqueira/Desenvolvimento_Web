@@ -1,0 +1,10 @@
+Sobre as novas tags do HTML 5 
+
+Ate o momento o que foi utilizado nos projetos apresentados pelo curso a divisao de menu, cabe
+calho e rodape foi sempre utilizando a <div> mas com o html 5 ha tags expecificas para 
+facilitar o entendimento e sentido do codigo. 
+
+<Header> sendo a tag para cabecalho
+<Nav> sendo a tag para navegacao
+<footer> sendo a tag para rodape. 
+
