@@ -1,0 +1,12 @@
+Hoje em dia a informacao acredito que ja nao tenha mais sentido pois a grande maioria dos navegadores
+ja aceita bem o html5 e os navegadores mais antigos acabou sendo atualizados. 
+
+Mas!
+
+Caso ainda va desenvolver um site para o internet explore anterior ao 9.0 as tags do html 5 vao ficar quebradas. 
+para solucionar este problema temos o html5 shiv. que e um codigo em javaScrip para 
+realizar fazer com que as tags seram entendidas nos navegadores mais antigos. 
+
+No codigo compatibilidade_html5.html dentro da tag <head> foi cruiado um pequeno if
+que caso seja um navegador internet explore antes ou igual ao 9 vai ser utilizados os codigos
+javascrip que estao na pasta JS

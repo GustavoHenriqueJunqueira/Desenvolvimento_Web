@@ -1,0 +1,6 @@
+Mesmo sendo utilizado pouco mais a frente ha uma possibilidade de se utilizar atributos customizados.
+
+No exemplo da pagina em html se formos verificar em cada linha da li representando uma pessoa
+ha o data customizado de idade. ao vermos isto no navegador nao ha diferenca mas 
+posteriormente poderemos manipular e trabalhar com estes dados personalizados utilizando 
+javaScript
