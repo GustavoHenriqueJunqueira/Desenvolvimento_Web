@@ -1,0 +1,22 @@
+Mais novas tag sobre o html 5 
+
+Estas sao novas formas e novas tags para fazer apresentacoes de alguns campos 
+a serem utilizados em formulario. 
+
+Nesta sequencia de tags demonstramos a funcionalidade o autofocus, required, min e max, step
+o placeholder sem falar nos tipos que foi utilizado em cada um dos campos. 
+
+Autofocus vai funcionar na forma que entrar na tela de informar os campos ele ja estara marcado
+para o usuario digitar. 
+
+required vai ser o campo obrigatorio, sendo que todas as tag aqui demonstradas do formulario
+pode utilizar 
+
+min, max e step: neste caso e para limitar o intervalo de numeros mas tambem de quantos em quantos
+ele vai ser contado. 
+
+neste exemplo seria de 0 a 10 automentado de 2 a 2
+
+placeholder. Dentro da caixa a qual a pessoa vai digitar fica um exemplo que 
+sai automaticamente quando se comeca a digitar
+
