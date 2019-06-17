@@ -1,0 +1,10 @@
+Ainda sobre mais tag novas do html 5 
+
+Temos tambel a questao do 
+<Section> para fazer secoes dentro de uma tag <article> sendo que todas as tag podem ser forma
+datas da mesma forma com que ja tinha sido realizado anteriormente utilizando o css3
+
+<aside> Tag que pode ser utilizada para fazer postagens em blocos larerais como baners.
+
+<time> tag utilizada para demonstrar qual parte se trata de uma data sobre alguma
+postagem 
