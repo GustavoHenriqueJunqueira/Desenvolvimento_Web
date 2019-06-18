@@ -1,0 +1,19 @@
+Sobre bordas aredondadas e tamanho de caixa tudo que podemos fazer para consigurar estes
+atributos sera no css.
+
+como visto no codigo html, temos duas box para facilitar o entendimento, no primeiro box
+demonstramos sobre as bordas arredondadas, utilizando o border-radius 
+como estamos vendo sobre compatibilidade de navegadore, se adicionarmos dentro do codigo box
+o -webkit-border-radius e tambem -moz-border-radius todos os navegadores vao entender
+sem problemas o arredondamento da borda.
+
+
+ja para manter o tamanho da box nao ser alterado por causa da uniao do tamanho de width + padding
+ou height + padding podemos utilizar o atributo box-sizing:border-box.
+
+O que pode acontecer e o seguinte, com o tamanho de width sendo 300 e utilizando um padding 
+de 50, a largura na verdade passa a ser de 400 sendo que 300 ja do width e 50 para cada lado
+do padding, isto tambem conta para o atributo height.
+
+Novamente por causa das diferencas entre navegadore, ao utilizar o -webkit-box-sizing e
+-moz-box-sizing para todos os navegadores vao respeitar este atributo.
