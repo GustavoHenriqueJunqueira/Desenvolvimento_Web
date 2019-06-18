@@ -1,0 +1,31 @@
+Relacionado a animacoes;
+
+utilizando um atributo novo o @keyframes e informando um nome 
+conseguimos definir a transformacao da animacao utilizando
+
+from -> to 
+
+Que seria De -> para
+
+Veja que dentro de from foi definico cor de fundo, a borda
+e tambem o local na pagina que ele esta 
+
+Ja em to foi definido outra cor para o fundo o tamanho da borda
+e o local na pagina que vai ficar. 
+
+ja dentro do id box animacao 
+
+Apos definir os parametros do tamanho da caixa comecamos a 
+informar os parametros da animacao como o principal
+o nome da animacao, se nao colocar o nome nao sera realizado
+a modificacao
+
+a duracao que vai levar para fazer toda a animacao 
+o tempo para comecar a animacao 
+quantas vezes vai ser realizado a animacao como um todo do
+inicio e a direcao, que no faco foi alternate, o que acontece
+e que no final da primeira animacao, vai voltar para o inicio 
+desfazendo a animacao realizada. 
+
+todo o bloco foi documentado para demonstrar que tudo pode
+ser escrito resumidamente em apenas uma linha.
