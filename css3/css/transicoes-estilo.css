@@ -5,7 +5,7 @@
     background: orange;
 }
 #box-transicao:hover{
-   width: 400px;
+    width: 400px;
     background: red;
     transition: background 3s, width 3s;
 }
