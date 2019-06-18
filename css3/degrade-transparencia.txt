@@ -1,0 +1,17 @@
+Vendo agora a questao do degrade dobre o texto e outras formas de utilizar imagem ou cores
+
+no box_1 vemos como adicionar uma imagem de fundo no box. 
+Logo a baixo vemos que dem box_1 h1 relacionado ao titulo tempos a possibilidade de utilizar
+o rgba que no caso sao as tres cores principais que podem ser alteradas mais a opacidade. 
+
+Ex: rgba(255, 255, 255, 0.5) o 0.5 vai ser a opacidade, o quanto ira ficar transparente indo de 
+0 a 1.
+
+ja na box_2 vemos o atributo linear-gradiente, podendo deixar um efeito de degrade com duas 
+cores, no exemplo foi utilizado mais um atributo identificando o lado que deve seguir as cores
+Ex: to right, to left, to top ou to bottom, sendo que to bottom ja e o padrao. 
+
+Em box_3 temos mais um atributo relacionado a degrade mais utilizando radial-gradiente
+desta forma nao iremos definir a direcao pos sera feito um circulo de fundo com as correr. 
+
+Veja o degrade-transparencia.html para ter um exemplo melhor.
