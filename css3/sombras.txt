@@ -1,0 +1,22 @@
+Sobre sombras no css3 
+
+No box_1 h1 utilizamos um novo atributo, o text-shadow
+o que faz uma sombra no testo ja que estou colocando apenas
+no h1
+
+no box2_h1 utilizamos o text-shadow mas com o rgba para 
+definir a cor e opacidade da sombra 
+
+no box3 utilizamos o box_shadow que no caso tada a caixa 
+vai ter sua sombra lateral, caso queira colocar no texto 
+dentro da box deve-se direcionar para <p>
+
+no box4 vemos que pode ser utilizado mais de um tipo
+de sombra, neste caso utilizamos uma sombra preta parabaixo 
+e direita e uma sombra vermelha na esquerda e para o topo. 
+
+
+Lembrando que as sombras sempre vao obedecer sendo
+valores positivos vao para direita e baixo
+
+valores negativos para topo e esquerda. 
