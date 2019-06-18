@@ -1,0 +1,14 @@
+Sobre as transicoes:
+
+Neste exemplo foi adicionado ao id transicao a transicao
+caso passar o mouse sobre esta caixa. 
+
+no arquivo css adicionamos no #box-transicao o :hover
+
+e definimos os atributos de como vai ficar quando passa o mouse
+
+a parte mais importante neste momento e o transition: 
+que podemos definir o tempo que ira levar na transicao.
+
+isto e importante para que nao seja feito uma transicao 
+muito brunca e instantanea.
