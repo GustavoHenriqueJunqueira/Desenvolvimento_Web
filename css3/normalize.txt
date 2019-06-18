@@ -1,0 +1,9 @@
+Voltando ao css, como ja foi visto anteriormente como resolver problemas de compatibilidade
+entre o navegador do internet explore 9 ou anterior, agora temos o normalize.css
+
+com este conjunto de configuracoes que adicionamos em nossa pagina, ele ira corigir varias
+pequenas coisas nao so ente o internet explore mas entre outros navegadores tambem. 
+
+se abrirmos o normalize.html no google e no internet explore agora vemos que eles estao muito
+parecidos, caso tenha duvida de como estava antes, coloque o simbulo de comentario na frente do link 
+para o normalize dentro da tag <head> desta forma ira demonstrear o que mudou.
