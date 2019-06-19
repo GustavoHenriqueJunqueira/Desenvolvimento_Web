@@ -1,0 +1,9 @@
+Sobre criacao de tabelas com bootstrap.
+
+Agora para fazer a configuracao da tabela ficou mais facil quando se utiliza a biblioteca 
+do bootstrap porque toda a configuracao pode ficar direto dentro de uma class. a class dentro da 
+tag table. 
+
+Cada atributo adiciondo ja adiciona a configuracao direto na tabela toda. 
+
+claro que pode adicionar configuracoes diferentes em cada linha ou coluna.
