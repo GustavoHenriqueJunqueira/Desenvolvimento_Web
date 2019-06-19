@@ -1,0 +1,8 @@
+Apos realizar toda a primeira configuracao do bootstrap, foi apresentado a funcionalidade das
+colunas e como o bootstrap funciona com sua organizacao.
+
+Ao observar dento do <body> as <divs> agora possuem outros atributos.
+na primeira importando a configuracao do estilo.css que foi criado para demonstrar
+ja na segunda div ha uma classe com o nome row (Linha) 
+nas proximas divs dentro da class estamos o tamanha que cada linha vai ocupar em colunas 
+dependendo do atibuto que foi utilizado.
