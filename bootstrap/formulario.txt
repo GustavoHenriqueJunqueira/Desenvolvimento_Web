@@ -1,0 +1,14 @@
+Relacionado a criacao de formularios utilizando o bootstrap.
+
+Dentro da tag <body> conseguimos ver a criacao tanto do cabecalho, ja utilizando os atributos 
+do bootstrap, ja class da div do h1 foi utilizado alguns outros comandos pois a 
+versao 4 nao aceita mais simplismente a escrita page-header.
+
+Este comando e para fazer a configuracao do home da pagina no superior
+
+Pouco a baixo foi criado a configuracao para a coluna de cadastro utilizando 8 coluna das 12 
+dentro desta parte esta as configuracoes para os campos a serem informados. 
+
+Na parte de logar fou utilizado as outras 4 linhas restantes das 12 do overvil
+
+e feito a configuracao tambem do botao de logar, igual no botao da parte de cadastrar. 

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="estilo.css">
+
+    <title>Formularios</title>
+  <body>
+    <div class="container">
+        <div class="pb-2 mt-4 mb-2 border-bottom"> <!---Obs. deveria ser page-header mas o bootstrap 4 nao aceita mais a 
+        escrita da palavra e deve ser estes caracteres.-->
+            <h1>Formularios bootstrap</h1>
+        </div>
+        <div class="row">
+            <div class="col-sm-8">
+                <h3>Cadastre-se</h3>
+                <form>
+                    <div class="form-group">
+                        <label for="nome">Nome</label>
+                        <input type="text" class="form-control" id="nome">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">E-mail</label>
+                        <input type="email" class="form-control" id="email">
+                    </div>
+                    <div class="form-group">
+                        <label for="senha">Senha</label>
+                        <input type="password" class="form-control" id="senha">
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox"> Aceito os termos do servico.
+                        </label>
+                    </div>
+                    <div class="radio">
+                        <label>
+                            <input type="radio" name="opcoes" >PHP.
+                        </label>
+                        <label>
+                            <input type="radio" name="opcoes">Java.
+                        </label>
+                    </div>
+                    <button type="button" class="btn btn-light">Cadastrar</button>
+                </form>
+                </form>
+            </div>
+            <div class="col-sm-4">
+                <h3>Logar</h3>
+                <div class="form-group">
+                    <input type="email" class="form-control" id="email" placeholder="Digite seu E-mail">
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control" id="senha" placeholder="Digite sua Senha">
+                </div>
+                <button type="button" class="btn btn-primary">Logar</button>
+            </div>      
+        </div>
+    </div> 
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+  </body>
+</html>
