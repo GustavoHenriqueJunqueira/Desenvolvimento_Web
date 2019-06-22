@@ -1,0 +1,15 @@
+Relacionado a imagens responsivas utilizando o bootstrap.
+
+ha certa diferenca do que foi apresentado em aula para como e feito hoje em dia. 
+Com o bootstrap na versao 4.0 ou superior, a forma de adicionar alguns atributos foi alterada. 
+
+Sobre imagem respondiva. Anter era apenas informar que esta classe iria carregar o atributo img-responsive
+mas agora deve se utilizar img-fluid. 
+
+Para o formato das imagens segue a mesma questao. 
+
+para auxiliar o entendimento e as alteracoe que realizei pesquiser utilizando o site
+
+https://www.w3schools.com/bootstrap4/bootstrap_images.asp
+https://getbootstrap.com/docs/4.0/content/images/
+
