@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Desenvolvimento_Web/bootstrap/fontawesome/css/all.css">
+    <link rel="stylesheet" href="estilo.css">
+
+    <title>Bootstrap Tootip</title>
+  </head>  
+  <body>
+
+    <div class="container">
+
+        <div class="pb-2 mt-4 mb-2 border-bottom"> 
+            <h1>Bootstrap Tootip</h1>
+        </div>
+        <h3>
+            <button type="button" class="btn btn-light" data-toggle="tooltip" data-placement="left"
+            title="Detalhes do item">Dicas</button>
+        </h3>
+        <div class="btn-toolbar">
+            <div class="btn-group">
+
+                <button type="button" class="btn btn-light">
+                    <span class="glyphicon glyphicon-pause"></span>
+                </button>     
+            </div>
+        </div>    
+        <h3>Popover</h3>
+
+            <button type="button" class="btn btn-lg btn-danger"
+                    data-toggle="popover" title="Detalhes"
+                    data-content="Lorem ipsum dolorem qualquer coisa"
+                    data-placement="bottom">
+                    Detalhes
+            </button>
+        
+        
+        
+    </div>   
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script type="text/javascript">
+    $(function () {
+       $('[data-toggle="tooltip"]').tooltip()
+       $('[data-toggle="popover"]').popover()
+    })
+    </script>  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
