@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Desenvolvimento_Web/bootstrap/fontawesome/css/all.css">
+    <link rel="stylesheet" href="estilo.css">
+
+    <title>Bootstrap Alertas</title>
+  </head>  
+  <body>
+
+    <div class="container">
+
+        <div class="pb-2 mt-4 mb-2 border-bottom"> 
+            <h1>Bootstrap Alertas</h1>
+        </div>
+        
+        <div class="alert alert-success" role="alert" data-dismiss="alert" aria-label="Fechar">
+          <button type="button" class="close" data-dismiss="alert">
+            <span aria-hidden="true" >&times;</span>
+          </button>
+          <strong>Alerta</strong>
+        </div>
+        <div class="alert alert-info">
+          <button type="button" class="close" data-dismiss="info">
+            <span>&times;</span>
+          </button>
+          <strong>Informacao</strong>
+        </div>
+        <div class="alert alert-warning">
+          <button type="button" class="close" data-dismiss="warning">
+            <span>&times;</span>
+          </button>
+          <strong>Perigo</strong>
+        </div>
+        <div class="alert alert-danger">
+          <button type="button" class="close" data-dismiss="danger">
+            <span>&times;</span>
+          </button>
+          <strong>Erro</strong>
+        </div>
+        
+    </div>    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
