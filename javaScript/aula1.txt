@@ -1,0 +1,15 @@
+Sobre a inclusao do javaScrit em uma pagina HTML5
+
+Ha duas formas de se fazer a inclusao 
+a primeira diretamente na pagina html.
+
+Por boas praticas de desenvolvimento sempre colocar o <script>
+dentro da tag <head> pois quando a pagina ja for carregada
+o javaScrit ja vai ter sico carregado. 
+
+A segunda forma e utilizar a tag 
+<script language="javascript"
+src="meu_javascript.js"></script>
+
+Desta forma vc importa para a pagina HTML5
+a os parametros ja definidos na pagina javaScrit
