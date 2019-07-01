@@ -1,4 +1,4 @@
-@media screen and (max-width: 767px){
+/*@media screen and (max-width: 767px){
     body{
         background: red;
     }
@@ -23,4 +23,11 @@
     p{
         font-size: 100px;
     }
+}*/
+
+.item{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    overflow: auto;
 }
