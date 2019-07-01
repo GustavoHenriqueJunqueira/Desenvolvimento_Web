@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Variaveis</title>
+        <script type="text/javascript">
+        
+        //Primeiro metodo de montar um array
+        //Neste primeiro caso podemos ver e escolher a chave o indice para cada item 
+
+            var lista_frutas = Array();
+            lista_frutas[1] = "Banana";
+            lista_frutas[2] = "Maca";
+            lista_frutas[3] = "Morango";
+            lista_frutas[4] = "uva";
+               
+            document.write(lista_frutas)
+            //Caso queira demonstrar um valor expecifico da posicao. 
+            alert(lista_frutas[3]);
+            document.write(lista_frutas[4]);
+        //Segundo metodo de montar um array
+        //Ja neste caso nao informamos qual vai ser o indice para cada item mas por
+        //padrao iniciace o array com 0.
+        
+        var lista_frutas2 = Array('Banana','Maca','Morango','uva','mamao');
+        console.log(lista_frutas2);
+        document.write('<br /><br />'); 
+
+        var lista_veiculos = ['carro','moto','bicicleta','patins','aviao']
+        document.write(lista_veiculos);
+        
+
+        </script>
+    </head>
+    <body>
+        
+
+    </body>
+</html>
