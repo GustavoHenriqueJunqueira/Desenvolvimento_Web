@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Evento - mouse</title>
+        <script type="text/javascript">
+
+            //onclick
+            //ondblclick
+
+        function msgBoasVindas1(){
+            alert('Utilizando o clike simples');
+        };
+        function msgBoasVindas2(){
+            alert('Utilizando o duplo clike');
+        };   
+        function msgBoasVindas3(){
+            alert('Utilizando o onmousedown');
+        };   
+        function msgBoasVindas4(){
+            alert('Utilizando o onmouseover');
+        };   
+        function msgBoasVindas5(){
+            alert('Utilizando o onmouseout');
+        };       
+
+
+        </script>
+    </head>
+    <body>
+        <div onclick="msgBoasVindas1()" style="background:yellow; height:150px; width:150px;"></div>  
+        <div ondblclick="msgBoasVindas2()" style="background: red; height:150px; width:150px;"></div>
+        <div onmousedown="msgBoasVindas3()" style="background: blue; height:150px; width:150px;"></div>
+        <div onmouseover="msgBoasVindas4()" style="background: green; height:150px; width:150px;"></div>
+        <div onmouseout="msgBoasVindas5()" style="background: silver; height:150px; width:150px;"></div>
+
+    </body>
+</html>
